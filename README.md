@@ -472,4 +472,6 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 
 - Este projeto está sob a licença [MIT](./LICENSE).
 
+<!--Bottom session-->
+<br><h4 align=center>Made with by <a target="_blank" href="https://github.com/lucianocoelho-28" >Luciano Coelho</a></h4>
 
