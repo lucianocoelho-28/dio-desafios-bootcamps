@@ -442,6 +442,24 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   </div>
 </details>
 
+<!-- Python -->
+<details>
+  <summary><span>Python</span></summary>
+  <div>
+    <h4>Soluções Aritméticas em Python</h4>
+    <a href="https://github.com/lucianocoelho-28/desafios-bootcamps-dio/blob/master/Kotlin/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/SomaSimples.kt">Notas da Prova</a><br/>
+    <a href="https://github.com/lucianocoelho-28/desafios-bootcamps-dio/blob/master/Kotlin/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/NumerosImpares.kt">Preenchimento de Vetor I<br/>
+    <a href="https://github.com/lucianocoelho-28/desafios-bootcamps-dio/blob/master/Kotlin/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/QuadradoCubo.kt">Triângulo</a><br/>
+  </div>
+  <div>
+    <h4>Solucionando Desafios em Python</h4>
+    <a href="https://github.com/lucianocoelho-28/desafios-bootcamps-dio/blob/master/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/BobConduite.kt">Média 3</a><br/>
+    <a href="https://github.com/lucianocoelho-28/desafios-bootcamps-dio/blob/master/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20com%20Kotlin/Distancia.kt">Folha de Pagamento</a><br/>
+    <a href="https://github.com/lucianocoelho-28/desafios-bootcamps-dio/blob/master/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20com%20Kotlin/ContagemDeCedulas.kt">Programa para Validação de Notas</a><br/>
+  </div>
+  <div>
+</details>
+
 <!-- Ruby -->
 <details>
   <summary><span>Ruby</span></summary>
