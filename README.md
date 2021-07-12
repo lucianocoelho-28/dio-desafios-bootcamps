@@ -41,7 +41,7 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   </a>
    <!-- Python -->
   <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/tree/master/Python">
-    <img src="./assets/kotlin.svg" alt="python" tittle="python" width="70" height="70">
+    <img src="./assets/python.svg" alt="python" tittle="python" width="70" height="70">
   </a>
   <!-- Ruby -->
   <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/tree/master/Ruby">
