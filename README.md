@@ -1,13 +1,13 @@
 <!-- Badges session -->
 <p align="center">
   <!-- languages -->
-  <img src="https://img.shields.io/github/languages/count/lucianocoelho-28/desafios-bootcamps-dio?style=social" alt="Linguagens utilizadas">
+  <img src="https://img.shields.io/github/languages/count/lucianocoelho-28/dio-desafios-bootcamps?style=social" alt="Linguagens utilizadas">
   <!-- repo size -->
-  <img src="https://img.shields.io/github/repo-size/lucianocoelho-28/desafios-bootcamps-dio?style=social" alt="Tamanho do repositório">
+  <img src="https://img.shields.io/github/repo-size/lucianocoelho-28/dio-desafios-bootcamps?style=social" alt="Tamanho do repositório">
   <!-- last commit -->
-  <img src="https://img.shields.io/github/last-commit/lucianocoelho-28/desafios-bootcamps-dio?style=social" alt="Último commit">
+  <img src="https://img.shields.io/github/last-commit/lucianocoelho-28/dio-desafios-bootcamps?style=social" alt="Último commit">
   <!-- licence MIT -->
-  <img src="https://img.shields.io/github/license/lucianocoelho-28/desafios-bootcamps-dio?style=social" alt="Licença MIT">
+  <img src="https://img.shields.io/github/license/lucianocoelho-28/dio-desafios-bootcamps?style=social" alt="Licença MIT">
 </p>
 
 <!--Banner session-->
@@ -24,23 +24,23 @@ Os códigos estão rodando normalmente na plataforma da DIO.
 <!-- Ícones das linguagens -->
 <p align="center">
   <!-- C# -->
-  <a href="https://github.com/lucianocoelho-28/desafios-bootcamps-dio/tree/master/C%23">
+  <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/tree/master/C%23">
     <img src="./assets/csharp.svg" alt="csharp" tittle="C#" width="70" height="70">
   </a>
   <!-- Java -->
-  <a href="https://github.com/lucianocoelho-28/desafios-bootcamps-dio/tree/master/Java">
+  <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/tree/master/Java">
     <img src="./assets/java.svg" alt="java" tittle="Java" width="70" height="70">
   </a>
   <!-- JavaScript -->
-  <a href="https://github.com/lucianocoelho-28/desafios-bootcamps-dio/tree/master/JavaScript">
+  <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/tree/master/JavaScript">
     <img src="./assets/javascript.svg" alt="javascript" tittle="JavaScript" width="70" height="70">
   </a>
   <!-- Kotlin -->
-  <a href="https://github.com/lucianocoelho-28/desafios-bootcamps-dio/tree/master/Kotlin">
+  <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/tree/master/Kotlin">
     <img src="./assets/kotlin.svg" alt="kotlin" tittle="Kotlin" width="70" height="70">
   </a>
   <!-- Ruby -->
-  <a href="https://github.com/lucianocoelho-28/desafios-bootcamps-dio/tree/master/Ruby">
+  <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/tree/master/Ruby">
     <img src="./assets/ruby.svg" alt="ruby" tittle="Ruby" width="70" height="70">
   </a>
 </p>
@@ -52,11 +52,11 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   <summary><span>C#</span></summary>
   <div>
     <h4>Desafios aritméticos em C#</h4>
-    <a href="https://github.com/lucianocoelho-28/desafios-bootcamps-dio/blob/main/C%23/Desafios%20aritme%CC%81ticos%20em%20C%23/media-1.cs">Média 1</a><br/>
-    <a href="https://github.com/lucianocoelho-28/desafios-bootcamps-dio/blob/main/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/crescimento-populacional.cs">Crescimento Populacional</a><br/>
-    <a href="https://github.com/lucianocoelho-28/desafios-bootcamps-dio/blob/main/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/bazinga.cs">Bazinga!</a><br/>
-    <a href="https://github.com/lucianocoelho-28/desafios-bootcamps-dio/blob/main/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/tempo-de-um-evento.cs">Tempo de um Evento</a><br/>
-    <a href="https://github.com/lucianocoelho-28/desafios-bootcamps-dio/blob/main/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/comunicacao-em-piralandia.cs">Comunicação em Piralândia</a>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Desafios%20aritme%CC%81ticos%20em%20C%23/media-1.cs">Média 1</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Desafios%20aritme%CC%81ticos%20em%20C%23/crescimento-populacional.cs">Crescimento Populacional</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Desafios%20aritme%CC%81ticos%20em%20C%23/bazinga.cs">Bazinga!</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Desafios%20aritme%CC%81ticos%20em%20C%23/tempo-de-um-evento.cs">Tempo de um Evento</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Desafios%20aritme%CC%81ticos%20em%20C%23/comunicacao-em-piralandia.cs">Comunicação em Piralândia</a>
   </div>
     <div>
       <h4>Desenvolvendo algoritmos com C#</h4>
