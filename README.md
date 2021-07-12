@@ -60,15 +60,15 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   </div>
     <div>
       <h4>Desenvolvendo algoritmos com C#</h4>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Desafios%20aritme%CC%81ticos%20em%20C%23/calculo-de-viagem.cs">Cálculo de viagem</a><br/>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Desafios%20aritme%CC%81ticos%20em%20C%23/album-da-copa.cs">Álbum da Copa</a><br/>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Desafios%20aritme%CC%81ticos%20em%20C%23/animal.cs">Animal</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Desenvolvendo%20algoritmos%20com%20C%23/calculo-de-viagem.cs">Cálculo de viagem</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Desenvolvendo%20algoritmos%20com%20C%23/album-da-copa.cs">Álbum da Copa</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Desenvolvendo%20algoritmos%20com%20C%23/animal.cs">Animal</a><br/>
     </div>
     <div>
       <h4>Introdução a Programação com .NET</h4>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/dividindo-X-por-Y.cs">Dividindo X por Y</a><br/>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/bazinga.cs">Bazinga!</a><br/>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/coxinha-de-bueno.cs">Coxinha de Bueno</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Introduc%CC%A7a%CC%83o%20a%20Programac%CC%A7a%CC%83o%20com%20C%23/dividindo-X-por-Y.cs">Dividindo X por Y</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Introduc%CC%A7a%CC%83o%20a%20Programac%CC%A7a%CC%83o%20com%20.NET/bazinga.cs">Bazinga!</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Introduc%CC%A7a%CC%83o%20a%20Programac%CC%A7a%CC%83o%20com%20.NET/coxinha-de-bueno.cs">Coxinha de Bueno</a><br/>
     </div>
     <div>
       <h4>Introdução a Programação com C#</h4>
