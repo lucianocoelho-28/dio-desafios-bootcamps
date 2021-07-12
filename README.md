@@ -52,11 +52,11 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   <summary><span>C#</span></summary>
   <div>
     <h4>Desafios aritméticos em C#</h4>
-    <a href="https://github.com/lucianocoelho-28/desafios-bootcamps-dio/blob/master/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/media-1.cs">Média 1</a><br/>
-    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/crescimento-populacional.cs">Crescimento Populacional</a><br/>
-    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/bazinga.cs">Bazinga!</a><br/>
-    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/tempo-de-um-evento.cs">Tempo de um Evento</a><br/>
-    <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/comunicacao-em-piralandia.cs">Comunicação em Piralândia</a>
+    <a href="https://github.com/lucianocoelho-28/desafios-bootcamps-dio/blob/main/C%23/Desafios%20aritme%CC%81ticos%20em%20C%23/media-1.cs">Média 1</a><br/>
+    <a href="https://github.com/lucianocoelho-28/desafios-bootcamps-dio/blob/main/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/crescimento-populacional.cs">Crescimento Populacional</a><br/>
+    <a href="https://github.com/lucianocoelho-28/desafios-bootcamps-dio/blob/main/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/bazinga.cs">Bazinga!</a><br/>
+    <a href="https://github.com/lucianocoelho-28/desafios-bootcamps-dio/blob/main/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/tempo-de-um-evento.cs">Tempo de um Evento</a><br/>
+    <a href="https://github.com/lucianocoelho-28/desafios-bootcamps-dio/blob/main/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/comunicacao-em-piralandia.cs">Comunicação em Piralândia</a>
   </div>
     <div>
       <h4>Desenvolvendo algoritmos com C#</h4>
