@@ -60,9 +60,9 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   </div>
     <div>
       <h4>Desenvolvendo algoritmos com C#</h4>
-      <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desenvolvendo%20algoritmos%20com%20C%23/calculo-de-viagem.cs">Cálculo de viagem</a><br/>
-      <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desenvolvendo%20algoritmos%20com%20C%23/album-da-copa.cs">Álbum da Copa</a><br/>
-      <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/blob/master/C%23/Desenvolvendo%20algoritmos%20com%20C%23/animal.cs">Animal</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Desenvolvendo%20algoritmos%20com%20C%23/calculo-de-viagem.cs">Cálculo de viagem</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Desenvolvendo%20algoritmos%20com%20C%23/album-da-copa.cs">Álbum da Copa</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Desenvolvendo%20algoritmos%20com%20C%23/animal.cs">Animal</a><br/>
     </div>
     <div>
       <h4>Introdução a Programação com .NET</h4>
