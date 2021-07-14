@@ -40,9 +40,9 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <img src="./assets/kotlin.svg" alt="kotlin" tittle="Kotlin" width="70" height="70">
   </a>
   <!-- Python -->
-  <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/tree/master/Python">
+ <!--  <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/tree/master/Python">
     <img src="./assets/python.svg" alt="python" tittle="Python" width="70" height="70">
-  </a>
+  </a> -->
   <!-- Ruby -->
   <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/tree/master/Ruby">
     <img src="./assets/ruby.svg" alt="ruby" tittle="Ruby" width="70" height="70">
@@ -244,160 +244,160 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   <summary><span>JavaScript</span></summary>
   <div>
     <h4>Busca e Laços de Repetição</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordena%C3%A7%C3%A3o%2C%20filtros%20e%20Desafios/o-escolhido.js">O Escolhido</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordena%C3%A7%C3%A3o%2C%20filtros%20e%20Desafios/comunicacao-em-piralandia.js">Comunicação em Piralândia</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/degustacao-de-vinho.js">Degustação de vinho</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/pink-e-cerebro.js">Pink e Cérebro</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordena%C3%A7%C3%A3o%2C%20filtros%20e%20Desafios/menor-e-posicao.js">Menor e Posição</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordenac%CC%A7a%CC%83o%2C%20filtros%20e%20Desafios/o-escolhido.js">O Escolhido</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordenac%CC%A7a%CC%83o%2C%20filtros%20e%20Desafios/comunicacao-em-piralandia.js">Comunicação em Piralândia</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Busca%20e%20Lac%CC%A7os%20de%20Repetic%CC%A7a%CC%83o/degustacao-de-vinho.js">Degustação de vinho</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Busca%20e%20Lac%CC%A7os%20de%20Repetic%CC%A7a%CC%83o/pink-e-cerebro.js">Pink e Cérebro</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordenac%CC%A7a%CC%83o%2C%20filtros%20e%20Desafios/menor-e-posicao.js">Menor e Posição</a><br/>
   </div>
   <div>
     <h4>Desafios Aritméticos em JavaScript</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20Aritm%C3%A9ticos%20em%20JavaScript/coxinha-de-bueno.js">Coxinha de Bueno</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Fundamentos%20Aritm%C3%A9ticos%20em%20JavaScript/consumo-medio-do-automovel.js">Consumo Médio do Automóvel</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20Aritm%C3%A9ticos%20em%20JavaScript/teorema-da-divisao-euclidiana.js">Teorema da Divisão Euclidiana</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Fundamentos%20Aritm%C3%A9ticos%20em%20JavaScript/contagem-de-cedulas.js">Contagem de Cédulas</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20Aritme%CC%81ticos%20em%20JavaScript/coxinha-de-bueno.js">Coxinha de Bueno</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Fundamentos%20Aritme%CC%81ticos%20em%20JavaScript/consumo-medio-do-automovel.js">Consumo Médio do Automóvel</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20Aritme%CC%81ticos%20em%20JavaScript/teorema-da-divisao-euclidiana.js">Teorema da Divisão Euclidiana</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Fundamentos%20Aritme%CC%81ticos%20em%20JavaScript/contagem-de-cedulas.js">Contagem de Cédulas</a><br/>
   </div>
   <div>
     <h4>Desafios Lógicos</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20L%C3%B3gicos/abreviando-posts-do-blog.js">Abreviando posts do blog</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20L%C3%B3gicos/brinquedos-do-papai-noel.js">Brinquedos do Papai Noel</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20L%C3%B3gicos/o-tabuleiro-secreto.js">O tabuleiro secreto</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20L%C3%B3gicos/album-da-copa.js">Álbum da Copa</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20L%C3%B3gicos/votacao-para-bobo-da-corte.js">Votação para Bobo da Corte</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20L%C3%B3gicos/hash-magico.js">Hash Mágico</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20Lo%CC%81gicos/abreviando-posts-do-blog.js">Abreviando posts do blog</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20Lo%CC%81gicos/brinquedos-do-papai-noel.js">Brinquedos do Papai Noel</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20Lo%CC%81gicos/o-tabuleiro-secreto.js">O tabuleiro secreto</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20Lo%CC%81gicos/album-da-copa.js">Álbum da Copa</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20Lo%CC%81gicos/votacao-para-bobo-da-corte.js">Votação para Bobo da Corte</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20Lo%CC%81gicos/hash-magico.js">Hash Mágico</a><br/>
   </div>
   <div>
     <h4>Desenvolvimento de problemas avançados em JavaScript</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20JavaScript/ordenando-numeros-pares-e-impares.js">Ordenando Números Pares e Ímpares</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desenvolvimento%20de%20problemas%20avan%C3%A7ados%20em%20JavaScript/animal.js">Animal</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordena%C3%A7%C3%A3o%2C%20filtros%20e%20Desafios/compras-no-supermercado.js">Compras no Supermercado</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordenac%CC%A7a%CC%83o%20e%20Filtros%20em%20JavaScript/ordenando-numeros-pares-e-impares.js">Ordenando Números Pares e Ímpares</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desenvolvimento%20de%20problemas%20avanc%CC%A7ados%20em%20JavaScript/animal.js">Animal</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordenac%CC%A7a%CC%83o%2C%20filtros%20e%20Desafios/compras-no-supermercado.js">Compras no Supermercado</a><br/>
   </div>
   <div>
     <h4>Fundamentos Aritméticos em JavaScript</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Fundamentos%20Aritm%C3%A9ticos%20em%20JavaScript/quantidade-de-numeros-positivos.js">Quantidade de Números Positivos</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Fundamentos%20Aritm%C3%A9ticos%20em%20JavaScript/exibindo-numeros-pares.js">Exibindo Números Pares</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Fundamentos%20Aritm%C3%A9ticos%20em%20JavaScript/analise-de-numeros.js">Análise de Números</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Fundamentos%20Aritm%C3%A9ticos%20em%20JavaScript/contagem-de-cedulas.js">Contagem de Cédulas</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Fundamentos%20Aritm%C3%A9ticos%20em%20JavaScript/consumo-medio-do-automovel.js">Consumo Médio do Automóvel</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Fundamentos%20Aritme%CC%81ticos%20em%20JavaScript/quantidade-de-numeros-positivos.js">Quantidade de Números Positivos</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Fundamentos%20Aritme%CC%81ticos%20em%20JavaScript/exibindo-numeros-pares.js">Exibindo Números Pares</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Fundamentos%20Aritme%CC%81ticos%20em%20JavaScript/analise-de-numeros.js">Análise de Números</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Fundamentos%20Aritme%CC%81ticos%20em%20JavaScript/contagem-de-cedulas.js">Contagem de Cédulas</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Fundamentos%20Aritme%CC%81ticos%20em%20JavaScript/consumo-medio-do-automovel.js">Consumo Médio do Automóvel</a><br/>
   </div>
   <div>
     <h4>Introdução a Busca e Substituição em JavaScript</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20JavaScript/ordenacao-de-palavras-por-tamanho.js">Ordenação de palavras por tamanho</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordena%C3%A7%C3%A3o%2C%20filtros%20e%20Desafios/encontre-a-maior-substring.js">Encontre a maior substring</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20JavaScript/validador-de-senhas-com-requisitos.js">Validador de senhas com requisitos</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordena%C3%A7%C3%A3o%2C%20filtros%20e%20Desafios/pedra-papel-tesoura-lagarto-e-spock.js">Pedra, Papel, Tesoura, Lagarto e Spock</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20JavaScript/atalhos-para-o-weblogger-brasil.js">Atalhos para o Weblogger Brasil</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Introduc%CC%A7a%CC%83o%20a%20Busca%20e%20Substituic%CC%A7a%CC%83o%20em%20JavaScript/ordenacao-de-palavras-por-tamanho.js">Ordenação de palavras por tamanho</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordenac%CC%A7a%CC%83o%2C%20filtros%20e%20Desafios/encontre-a-maior-substring.js">Encontre a maior substring</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Introduc%CC%A7a%CC%83o%20a%20Busca%20e%20Substituic%CC%A7a%CC%83o%20em%20JavaScript/validador-de-senhas-com-requisitos.js">Validador de senhas com requisitos</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordenac%CC%A7a%CC%83o%2C%20filtros%20e%20Desafios/pedra-papel-tesoura-lagarto-e-spock.js">Pedra, Papel, Tesoura, Lagarto e Spock</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Introduc%CC%A7a%CC%83o%20a%20Busca%20e%20Substituic%CC%A7a%CC%83o%20em%20JavaScript/atalhos-para-o-weblogger-brasil.js">Atalhos para o Weblogger Brasil</a><br/>
   </div>
   <div>
     <h4>Introdução a Programação</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Praticando%20Programa%C3%A7%C3%A3o%20com%20JavaScript/dividindo-X-por-Y.js">Dividindo X por Y</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Praticando%20Programa%C3%A7%C3%A3o%20com%20JavaScript/distancia.js">Distância</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o/quanta-mandioca.js">Quanta Mandioca?</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Praticando%20Programac%CC%A7a%CC%83o%20com%20JavaScript/dividindo-X-por-Y.js">Dividindo X por Y</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Praticando%20Programac%CC%A7a%CC%83o%20com%20JavaScript/distancia.js">Distância</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Introduc%CC%A7a%CC%83o%20a%20Programac%CC%A7a%CC%83o/quanta-mandioca.js">Quanta Mandioca?</a><br/>
   </div>
   <div>
     <h4>Introdução a Programação com JavaScript</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/visita-na-feira.js">Visita na Feira</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/multiplicacao-simples.js">Multiplicação Simples</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/folha-de-pagamento.js">Folha de Pagamento</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Introduc%CC%A7a%CC%83o%20a%20Programac%CC%A7a%CC%83o%20com%20JavaScript/visita-na-feira.js">Visita na Feira</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Introduc%CC%A7a%CC%83o%20a%20Programac%CC%A7a%CC%83o%20com%20JavaScript/multiplicacao-simples.js">Multiplicação Simples</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Introduc%CC%A7a%CC%83o%20a%20Programac%CC%A7a%CC%83o%20com%20JavaScript/folha-de-pagamento.js">Folha de Pagamento</a><br/>
   </div>
   <div>
     <h4>Ordenação e Filtros em JavaScript</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20JavaScript/ordenando-numeros-pares-e-impares.js">Ordenando Números Pares e Ímpares</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordena%C3%A7%C3%A3o%2C%20filtros%20e%20Desafios/compras-no-supermercado.js">Compras no Supermercado</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas/uniformes-de-final-de-ano.js">Uniformes de final de ano</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20JavaScript/fila-do-banco.js">Fila do Banco</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas/gincana-no-acampamento.js">Gincana no Acampamento</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordenac%CC%A7a%CC%83o%20e%20Filtros%20em%20JavaScript/ordenando-numeros-pares-e-impares.js">Ordenando Números Pares e Ímpares</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordenac%CC%A7a%CC%83o%2C%20filtros%20e%20Desafios/compras-no-supermercado.js">Compras no Supermercado</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Soluc%CC%A7a%CC%83o%20de%20Problemas/uniformes-de-final-de-ano.js">Uniformes de final de ano</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordenac%CC%A7a%CC%83o%20e%20Filtros%20em%20JavaScript/fila-do-banco.js">Fila do Banco</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Soluc%CC%A7a%CC%83o%20de%20Problemas/gincana-no-acampamento.js">Gincana no Acampamento</a><br/>
   </div>
   <div>
     <h4>Ordenação, filtros e Desafios</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordena%C3%A7%C3%A3o%2C%20filtros%20e%20Desafios/comunicacao-em-piralandia.js">Comunicação em Piralândia</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordena%C3%A7%C3%A3o%2C%20filtros%20e%20Desafios/compras-no-supermercado.js">Compras no Supermercado</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordena%C3%A7%C3%A3o%2C%20filtros%20e%20Desafios/pedra-papel-tesoura-lagarto-e-spock.js">Pedra, Papel, Tesoura, Lagarto e Spock</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordena%C3%A7%C3%A3o%2C%20filtros%20e%20Desafios/o-escolhido.js">O Escolhido</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordena%C3%A7%C3%A3o%2C%20filtros%20e%20Desafios/encontre-a-maior-substring.js">Encontre a maior substring</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordena%C3%A7%C3%A3o%2C%20filtros%20e%20Desafios/menor-e-posicao.js">Menor e Posição</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordenac%CC%A7a%CC%83o%2C%20filtros%20e%20Desafios/comunicacao-em-piralandia.js">Comunicação em Piralândia</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordenac%CC%A7a%CC%83o%2C%20filtros%20e%20Desafios/compras-no-supermercado.js">Compras no Supermercado</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordenac%CC%A7a%CC%83o%2C%20filtros%20e%20Desafios/pedra-papel-tesoura-lagarto-e-spock.js">Pedra, Papel, Tesoura, Lagarto e Spock</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordenac%CC%A7a%CC%83o%2C%20filtros%20e%20Desafios/o-escolhido.js">O Escolhido</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordenac%CC%A7a%CC%83o%2C%20filtros%20e%20Desafios/encontre-a-maior-substring.js">Encontre a maior substring</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordenac%CC%A7a%CC%83o%2C%20filtros%20e%20Desafios/menor-e-posicao.js">Menor e Posição</a><br/>
   </div>
   <div>
     <h4>Praticando Programação com JavaScript</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/folha-de-pagamento.js">Folha de Pagamento</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Praticando%20Programa%C3%A7%C3%A3o%20com%20JavaScript/dividindo-X-por-Y.js">Dividindo X por Y</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Praticando%20Programa%C3%A7%C3%A3o%20com%20JavaScript/distancia.js">Distância</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/visita-na-feira.js">Visita na Feira</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Introduc%CC%A7a%CC%83o%20a%20Programac%CC%A7a%CC%83o%20com%20JavaScript/folha-de-pagamento.js">Folha de Pagamento</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Praticando%20Programac%CC%A7a%CC%83o%20com%20JavaScript/dividindo-X-por-Y.js">Dividindo X por Y</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Praticando%20Programac%CC%A7a%CC%83o%20com%20JavaScript/distancia.js">Distância</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Introduc%CC%A7a%CC%83o%20a%20Programac%CC%A7a%CC%83o%20com%20JavaScript/visita-na-feira.js">Visita na Feira</a><br/>
   </div>
   <div>
     <h4>Praticando programação em JavaScript</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o/quanta-mandioca.js">Quanta Mandioca?</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20L%C3%B3gicos/votacao-para-bobo-da-corte.js">Votação para Bobo da Corte</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordena%C3%A7%C3%A3o%2C%20filtros%20e%20Desafios/comunicacao-em-piralandia.js">Comunicação em Piralândia</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Fundamentos%20Aritm%C3%A9ticos%20em%20JavaScript/contagem-de-cedulas.js">Contagem de Cédulas</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20JavaScript/folha-de-pagamento.js">Folha de Pagamento</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Introduc%CC%A7a%CC%83o%20a%20Programac%CC%A7a%CC%83o/quanta-mandioca.js">Quanta Mandioca?</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20Lo%CC%81gicos/votacao-para-bobo-da-corte.js">Votação para Bobo da Corte</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Ordenac%CC%A7a%CC%83o%2C%20filtros%20e%20Desafios/comunicacao-em-piralandia.js">Comunicação em Piralândia</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Fundamentos%20Aritme%CC%81ticos%20em%20JavaScript/contagem-de-cedulas.js">Contagem de Cédulas</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Introduc%CC%A7a%CC%83o%20a%20Programac%CC%A7a%CC%83o%20com%20JavaScript/folha-de-pagamento.js">Folha de Pagamento</a><br/>
   </div>
   <div>
     <h4>Problemas Aritméticos</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Problemas%20Aritm%C3%A9ticos/soma-simples.js">Soma Simples</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20Aritm%C3%A9ticos%20em%20JavaScript/coxinha-de-bueno.js">Coxinha de Bueno</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Problemas%20Aritm%C3%A9ticos/calculo-de-viagem.js">Cálculo de viagem</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Problemas%20Aritm%C3%A9ticos/taxa-de-imposto-de-renda.js">Taxa de Imposto de Renda</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20Aritm%C3%A9ticos%20em%20JavaScript/teorema-da-divisao-euclidiana.js">Teorema da Divisão Euclidiana</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Problemas%20Aritme%CC%81ticos/soma-simples.js">Soma Simples</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20Aritme%CC%81ticos%20em%20JavaScript/coxinha-de-bueno.js">Coxinha de Bueno</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Problemas%20Aritme%CC%81ticos/calculo-de-viagem.js">Cálculo de viagem</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Problemas%20Aritme%CC%81ticos/taxa-de-imposto-de-renda.js">Taxa de Imposto de Renda</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20Aritme%CC%81ticos%20em%20JavaScript/teorema-da-divisao-euclidiana.js">Teorema da Divisão Euclidiana</a><br/>
   </div>
   <div>
     <h4>Resolvendo Algoritmos</h4>
     <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Resolvendo%20Algoritmos/album-da-copa.js">Álbum da Copa</a><br/>
     <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Resolvendo%20Algoritmos/tipo-de-combustivel.js">Tipo de Combustível</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20L%C3%B3gicos/votacao-para-bobo-da-corte.js">Votação para Bobo da Corte</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20L%C3%B3gicos/brinquedos-do-papai-noel.js">Brinquedos do Papai Noel</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20Lo%CC%81gicos/votacao-para-bobo-da-corte.js">Votação para Bobo da Corte</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20Lo%CC%81gicos/brinquedos-do-papai-noel.js">Brinquedos do Papai Noel</a><br/>
     <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Resolvendo%20Algoritmos/programa-para-validacao-de-notas.js">Programa para Validação de Notas</a><br/>
   </div>
   <div>
     <h4>Resolvendo Algoritmos com JavaScript</h4>
     <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Resolvendo%20Algoritmos%20com%20JavaScript/coracao-das-cartas.js">Coração das cartas</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20L%C3%B3gicos/abreviando-posts-do-blog.js">Abreviando posts do blog</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20Lo%CC%81gicos/abreviando-posts-do-blog.js">Abreviando posts do blog</a><br/>
     <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Resolvendo%20Algoritmos%20com%20JavaScript/combinacao-de-strings.js">Combinação de strings</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20L%C3%B3gicos/hash-magico.js">Hash Mágico</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20L%C3%B3gicos/o-tabuleiro-secreto.js">O tabuleiro secreto</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20Lo%CC%81gicos/hash-magico.js">Hash Mágico</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Desafios%20Lo%CC%81gicos/o-tabuleiro-secreto.js">O tabuleiro secreto</a><br/>
   </div>
   <div>
     <h4>Solução de Problemas</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas/gincana-no-acampamento.js">Gincana no Acampamento</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas/fila-do-banco.js">Fila do Banco</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas/quadrado-e-ao-cubo.js">Quadrado e ao Cubo</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas/a-corrida-de-tartarugas.js">A Corrida de Tartarugas</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas/uniformes-de-final-de-ano.js">Uniformes de final de ano</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas/pedro-bento-e-o-mundo-de-oz.js">Pedro Bento e o Mundo de OZ</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Soluc%CC%A7a%CC%83o%20de%20Problemas/gincana-no-acampamento.js">Gincana no Acampamento</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Soluc%CC%A7a%CC%83o%20de%20Problemas/fila-do-banco.js">Fila do Banco</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Soluc%CC%A7a%CC%83o%20de%20Problemas/quadrado-e-ao-cubo.js">Quadrado e ao Cubo</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Soluc%CC%A7a%CC%83o%20de%20Problemas/a-corrida-de-tartarugas.js">A Corrida de Tartarugas</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Soluc%CC%A7a%CC%83o%20de%20Problemas/uniformes-de-final-de-ano.js">Uniformes de final de ano</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Soluc%CC%A7a%CC%83o%20de%20Problemas/pedro-bento-e-o-mundo-de-oz.js">Pedro Bento e o Mundo de OZ</a><br/>
   </div>
   <div>
     <h4>Solução de problemas básicos em JavaScript</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Praticando%20Programa%C3%A7%C3%A3o%20com%20JavaScript/dividindo-X-por-Y.js">Dividindo X por Y</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20JavaScript/blobs.js">Blobs</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Praticando%20Programac%CC%A7a%CC%83o%20com%20JavaScript/dividindo-X-por-Y.js">Dividindo X por Y</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Soluc%CC%A7a%CC%83o%20de%20problemas%20ba%CC%81sicos%20em%20JavaScript/blobs.js">Blobs</a><br/>
     <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Resolvendo%20Algoritmos/tipo-de-combustivel.js">Tipo de Combustível</a><br/>
   </div>
   <div>
     <h4>Solução de Problemas com JavaScript</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20JavaScript/contagem-repetida-de-numeros.js">Contagem repetida de números</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20JavaScript/vogais-extraterrestres.js">Vogais Extraterrestres</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20JavaScript/melhor-amigo-do-pablo.js">Melhor amigo do Pablo</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20JavaScript/entrevista-embaracosa.js">Entrevista embaraçosa</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20JavaScript/conjuntos-bons-ou-ruins.js">Conjuntos bons ou ruins?</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20JavaScript/produto-e-divisao.js">Produto e divisão</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20JavaScript/barras-de-ouro.js">Barras de ouro</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Soluc%CC%A7a%CC%83o%20de%20Problemas%20com%20JavaScript/contagem-repetida-de-numeros.js">Contagem repetida de números</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Soluc%CC%A7a%CC%83o%20de%20Problemas%20com%20JavaScript/vogais-extraterrestres.js">Vogais Extraterrestres</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Soluc%CC%A7a%CC%83o%20de%20Problemas%20com%20JavaScript/melhor-amigo-do-pablo.js">Melhor amigo do Pablo</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Soluc%CC%A7a%CC%83o%20de%20Problemas%20com%20JavaScript/entrevista-embaracosa.js">Entrevista embaraçosa</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Soluc%CC%A7a%CC%83o%20de%20Problemas%20com%20JavaScript/conjuntos-bons-ou-ruins.js">Conjuntos bons ou ruins?</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Soluc%CC%A7a%CC%83o%20de%20Problemas%20com%20JavaScript/produto-e-divisao.js">Produto e divisão</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Soluc%CC%A7a%CC%83o%20de%20Problemas%20com%20JavaScript/barras-de-ouro.js">Barras de ouro</a><br/>
   </div>
   <div>
     <h4>Solução de Problemas Cotidianos</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20Cotidianos/hora-da-corrida.js">Hora da Corrida</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20Cotidianos/cardapio-aereo.js">Cardápio Aéreo</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20Cotidianos/pizza-antes-do-final-do-ano.js">Pizza Antes do Final do Ano</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20Cotidianos/conversao-de-tempo.js">Conversão de Tempo</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20Cotidianos/idade-em-dias.js">Idade em Dias</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20Cotidianos/tempo-do-dobby.js">Tempo do Dobby</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20Cotidianos/rodizio-de-cavalos-e-carruagens.js">Rodízio de cavalos e carruagens</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Soluc%CC%A7a%CC%83o%20de%20Problemas%20Cotidianos/hora-da-corrida.js">Hora da Corrida</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Soluc%CC%A7a%CC%83o%20de%20Problemas%20Cotidianos/cardapio-aereo.js">Cardápio Aéreo</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Soluc%CC%A7a%CC%83o%20de%20Problemas%20Cotidianos/pizza-antes-do-final-do-ano.js">Pizza Antes do Final do Ano</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Soluc%CC%A7a%CC%83o%20de%20Problemas%20Cotidianos/conversao-de-tempo.js">Conversão de Tempo</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Soluc%CC%A7a%CC%83o%20de%20Problemas%20Cotidianos/idade-em-dias.js">Idade em Dias</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Soluc%CC%A7a%CC%83o%20de%20Problemas%20Cotidianos/tempo-do-dobby.js">Tempo do Dobby</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Soluc%CC%A7a%CC%83o%20de%20Problemas%20Cotidianos/rodizio-de-cavalos-e-carruagens.js">Rodízio de cavalos e carruagens</a><br/>
   </div>
   <div>
     <h4>Solução de Problemas Essenciais</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas/quadrado-e-ao-cubo.js">Quadrado e ao Cubo</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas/a-corrida-de-tartarugas.js">A Corrida de Tartarugas</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais/ultrapassando-V.js">Ultrapassando V</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais/validacao-de-nota.js">Validação de Nota</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Solu%C3%A7%C3%A3o%20de%20Problemas/pedro-bento-e-o-mundo-de-oz.js">Pedro Bento e o Mundo de OZ</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Soluc%CC%A7a%CC%83o%20de%20Problemas/quadrado-e-ao-cubo.js">Quadrado e ao Cubo</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Soluc%CC%A7a%CC%83o%20de%20Problemas/a-corrida-de-tartarugas.js">A Corrida de Tartarugas</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Soluc%CC%A7a%CC%83o%20de%20Problemas%20Essenciais/ultrapassando-V.js">Ultrapassando V</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Soluc%CC%A7a%CC%83o%20de%20Problemas%20Essenciais/validacao-de-nota.js">Validação de Nota</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/JavaScript/Soluc%CC%A7a%CC%83o%20de%20Problemas/pedro-bento-e-o-mundo-de-oz.js">Pedro Bento e o Mundo de OZ</a><br/>
   </div>
 </details>
 
