@@ -40,9 +40,9 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <img src="./assets/kotlin.svg" alt="kotlin" tittle="Kotlin" width="70" height="70">
   </a>
   <!-- Python -->
- <!--  <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/tree/master/Python">
+  <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/tree/master/Python">
     <img src="./assets/python.svg" alt="python" tittle="Python" width="70" height="70">
-  </a> -->
+  </a>
   <!-- Ruby -->
   <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/tree/master/Ruby">
     <img src="./assets/ruby.svg" alt="ruby" tittle="Ruby" width="70" height="70">
@@ -443,6 +443,23 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Kotlin/Solucionando%20problemas%20em%20Kotlin/PrimoRapido.kt">Primo Rápido</a><br/>
     <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Kotlin/Solucionando%20problemas%20em%20Kotlin/CorridaTartarugas.kt">A Corrida de Tartarugas</a><br/>
     <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Kotlin/Solucionando%20problemas%20em%20Kotlin/Figurinhas.kt">Figurinhas</a><br/>
+  </div>
+</details>
+
+<!-- Python -->
+<details>
+  <summary><span>Python</span></summary>
+  <div>
+    <h4>Soluções Aritméticas em Python</h4>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Python/Soluc%CC%A7o%CC%83es%20Aritme%CC%81ticas%20em%20Python/NotasDaProva.py">Notas da Prova</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Python/Soluc%CC%A7o%CC%83es%20Aritme%CC%81ticas%20em%20Python/PreenchimentoDeVetorI.py">Preenchimento de Vetor I</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Python/Soluc%CC%A7o%CC%83es%20Aritme%CC%81ticas%20em%20Python/Triangulo.py">Triângulo</a><br/>
+  </div>
+  <div>
+    <h4>Solucionando Desafios em Python</h4>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Python/Solucionando%20Desafios%20em%20Python/Media3.py">Média 3</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Python/Solucionando%20Desafios%20em%20Python/FolhaDePagamento.py">Folha de Pagamento</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Python/Solucionando%20Desafios%20em%20Python/ProgramaValidacaoNotas.py">Programa para Validação de Notas</a><br/>
   </div>
 </details>
 
