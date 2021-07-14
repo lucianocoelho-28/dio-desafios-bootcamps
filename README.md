@@ -406,25 +406,25 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   <summary><span>Kotlin</span></summary>
   <div>
     <h4>Introdução a programação em Kotlin</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Kotlin/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/SomaSimples.kt">Soma Simples</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Kotlin/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/NumerosImpares.kt">Números Ímpares</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Kotlin/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/QuadradoCubo.kt">Quadrado e ao Cubo</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Kotlin/Introduc%CC%A7a%CC%83o%20a%20programac%CC%A7a%CC%83o%20em%20Kotlin/SomaSimples.kt">Soma Simples</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Kotlin/Introduc%CC%A7a%CC%83o%20a%20programac%CC%A7a%CC%83o%20em%20Kotlin/NumerosImpares.kt">Números Ímpares</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Kotlin/Introduc%CC%A7a%CC%83o%20a%20programac%CC%A7a%CC%83o%20em%20Kotlin/QuadradoCubo.kt">Quadrado e ao Cubo</a><br/>
   </div>
   <div>
     <h4>Praticando programação com Kotlin</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/BobConduite.kt">Bob Conduite</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20com%20Kotlin/Distancia.kt">Distância</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20com%20Kotlin/ContagemDeCedulas.kt">Contagem de Cédulas</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Kotlin/Praticando%20programac%CC%A7a%CC%83o%20em%20Kotlin/BobConduite.kt">Bob Conduite</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Kotlin/Praticando%20programac%CC%A7a%CC%83o%20com%20Kotlin/Distancia.kt">Distância</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Kotlin/Praticando%20programac%CC%A7a%CC%83o%20com%20Kotlin/ContagemDeCedulas.kt">Contagem de Cédulas</a><br/>
   </div>
   <div>
     <h4>Praticando programação em Kotlin</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/JogoMatematicoPaula.kt">O jogo Matemático de Paula</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/ConversaoSimplesBase.kt">Conversão Simples de Base</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Kotlin/Praticando%20programa%C3%A7%C3%A3o%20em%20Kotlin/BobConduite.kt">Bob Conduite</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Kotlin/Praticando%20programac%CC%A7a%CC%83o%20em%20Kotlin/JogoMatematicoPaula.kt">O jogo Matemático de Paula</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Kotlin/Praticando%20programac%CC%A7a%CC%83o%20em%20Kotlin/ConversaoSimplesBase.kt">Conversão Simples de Base</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Kotlin/Praticando%20programac%CC%A7a%CC%83o%20em%20Kotlin/BobConduite.kt">Bob Conduite</a><br/>
   </div>
   <div>
     <h4>Primeiros passos em Kotlin</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Kotlin/Introdu%C3%A7%C3%A3o%20a%20programa%C3%A7%C3%A3o%20em%20Kotlin/SomaSimples.kt">Soma Simples</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Kotlin/Introduc%CC%A7a%CC%83o%20a%20programac%CC%A7a%CC%83o%20em%20Kotlin/SomaSimples.kt">Soma Simples</a><br/>
     <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Kotlin/Primeiros%20passos%20em%20Kotlin/MediaUm.kt">Média 1</a><br/>
     <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Kotlin/Primeiros%20passos%20em%20Kotlin/MultiplicacaoSimples.kt">Multiplicação Simples</a><br/>
   </div>
