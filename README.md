@@ -39,6 +39,10 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/tree/master/Kotlin">
     <img src="./assets/kotlin.svg" alt="kotlin" tittle="Kotlin" width="70" height="70">
   </a>
+  <!-- Python -->
+  <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/tree/master/Python">
+    <img src="./assets/python.svg" alt="python" tittle="Python" width="70" height="70">
+  </a>
   <!-- Ruby -->
   <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/tree/master/Ruby">
     <img src="./assets/ruby.svg" alt="ruby" tittle="Ruby" width="70" height="70">
@@ -72,15 +76,15 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     </div>
     <div>
       <h4>Introdução a Programação com C#</h4>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/dividindo-X-por-Y.cs">Dividindo X por Y</a><br/>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/distancia.cs">Distância</a><br/>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/quanta-mandioca.cs">Quanta Mandioca?</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Introduc%CC%A7a%CC%83o%20a%20Programac%CC%A7a%CC%83o%20com%20C%23/dividindo-X-por-Y.cs">Dividindo X por Y</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Introduc%CC%A7a%CC%83o%20a%20Programac%CC%A7a%CC%83o%20com%20C%23/distancia.cs">Distância</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Introduc%CC%A7a%CC%83o%20a%20Programac%CC%A7a%CC%83o%20com%20C%23/quanta-mandioca.cs">Quanta Mandioca?</a><br/>
     </div>
     <div>
       <h4>Praticando programação em C#</h4>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Praticando%20programa%C3%A7%C3%A3o%20em%20C%23/coordenadas-de-um-ponto.cs">Coordenadas de um Ponto</a><br/>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20com%20.NET/compras-no-supermercado.cs">Compras no Supermercado</a><br/>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Praticando%20programa%C3%A7%C3%A3o%20em%20C%23/pink-cerebro.cs">Pink e Cérebro</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Praticando%20programac%CC%A7a%CC%83o%20em%20C%23/coordenadas-de-um-ponto.cs">Coordenadas de um Ponto</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Soluc%CC%A7a%CC%83o%20de%20problemas%20com%20.NET/compras-no-supermercado.cs">Compras no Supermercado</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Praticando%20programac%CC%A7a%CC%83o%20em%20C%23/pink-cerebro.cs">Pink e Cérebro</a><br/>
     </div>
     <div>
       <h4>Primeiros programas em C#</h4>
@@ -100,53 +104,53 @@ Os códigos estão rodando normalmente na plataforma da DIO.
     </div>
     <div>
       <h4>Resolvendo algoritmos com C#</h4>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solucionando%20desafios%20intermedi%C3%A1rios%20em%20C%23/formula-de-bhaskara.cs">Fórmula de Bhaskara</a><br/>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20.NET/coxinha-de-bueno.cs">Coxinha de Bueno</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solucionando%20desafios%20intermedia%CC%81rios%20em%20C%23/formula-de-bhaskara.cs">Fórmula de Bhaskara</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Introduc%CC%A7a%CC%83o%20a%20Programac%CC%A7a%CC%83o%20com%20.NET/coxinha-de-bueno.cs">Coxinha de Bueno</a><br/>
       <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Resolvendo%20Algoritmos/cardapio-aereo.cs">Cardápio Aéreo</a><br/>
     </div>
     <div>
       <h4>Solução de problemas básicos em C#</h4>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20C%23/visita-na-feira.cs">Visita na Feira</a><br/>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20C%23/tuitando.cs">Tuitando</a><br/>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/validacao-de-nota.cs">Validação de Nota</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Soluc%CC%A7a%CC%83o%20de%20problemas%20ba%CC%81sicos%20em%20C%23/visita-na-feira.cs">Visita na Feira</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Soluc%CC%A7a%CC%83o%20de%20problemas%20ba%CC%81sicos%20em%20C%23/tuitando.cs">Tuitando</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Soluc%CC%A7a%CC%83o%20de%20Problemas%20Essenciais%20com%20C%23/validacao-de-nota.cs">Validação de Nota</a><br/>
     </div>
     <div>
       <h4>Solução de problemas com .NET</h4>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20com%20.NET/programa-para-validacao-de-notas.cs">Programa para Validação de Notas</a><br/>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/quanta-mandioca.cs">Quanta Mandioca?</a><br/>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20com%20.NET/compras-no-supermercado.cs">Compras no Supermercado</a><br/>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20com%20.NET/validador-de-senhas-com-requisitos.cs">Validador de senhas com requisitos</a><br/>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20com%20.NET/fila-do-banco.cs">Fila do Banco</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Soluc%CC%A7a%CC%83o%20de%20problemas%20com%20.NET/programa-para-validacao-de-notas.cs">Programa para Validação de Notas</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Introduc%CC%A7a%CC%83o%20a%20Programac%CC%A7a%CC%83o%20com%20C%23/quanta-mandioca.cs">Quanta Mandioca?</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Soluc%CC%A7a%CC%83o%20de%20problemas%20com%20.NET/compras-no-supermercado.cs">Compras no Supermercado</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Soluc%CC%A7a%CC%83o%20de%20problemas%20com%20.NET/validador-de-senhas-com-requisitos.cs">Validador de senhas com requisitos</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Soluc%CC%A7a%CC%83o%20de%20problemas%20com%20.NET/fila-do-banco.cs">Fila do Banco</a><br/>
     </div>
     <div>
       <h4>Solução de problemas em C#</h4>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20em%20C%23/consumo-medio-do-automovel.cs">Consumo Médio do Automóvel</a><br/>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20em%20C%23/ddd.cs">DDD</a><br/>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solu%C3%A7%C3%A3o%20de%20problemas%20em%20C%23/aumento-salario.cs">Aumento de Salário</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Soluc%CC%A7a%CC%83o%20de%20problemas%20em%20C%23/consumo-medio-do-automovel.cs">Consumo Médio do Automóvel</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Soluc%CC%A7a%CC%83o%20de%20problemas%20em%20C%23/ddd.cs">DDD</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Soluc%CC%A7a%CC%83o%20de%20problemas%20em%20C%23/aumento-salario.cs">Aumento de Salário</a><br/>
     </div>
     <div>
       <h4>Solução de Problemas Essenciais com C#</h4>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/quadrado-e-ao-cubo.cs">Quadrado e ao Cubo</a><br/>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/a-corrida-de-tartarugas.cs">A Corrida de Tartarugas</a><br/>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/ultrapassando-V.cs">Ultrapassando V</a><br/>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/validacao-de-nota.cs">Validação de Nota</a><br/>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/pedro-bento-e-o-mundo-de-oz.cs">Pedro Bento e o Mundo de OZ</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Soluc%CC%A7a%CC%83o%20de%20Problemas%20Essenciais%20com%20C%23/quadrado-e-ao-cubo.cs">Quadrado e ao Cubo</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Soluc%CC%A7a%CC%83o%20de%20Problemas%20Essenciais%20com%20C%23/a-corrida-de-tartarugas.cs">A Corrida de Tartarugas</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Soluc%CC%A7a%CC%83o%20de%20Problemas%20Essenciais%20com%20C%23/ultrapassando-V.cs">Ultrapassando V</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Soluc%CC%A7a%CC%83o%20de%20Problemas%20Essenciais%20com%20C%23/validacao-de-nota.cs">Validação de Nota</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Soluc%CC%A7a%CC%83o%20de%20Problemas%20Essenciais%20com%20C%23/pedro-bento-e-o-mundo-de-oz.cs">Pedro Bento e o Mundo de OZ</a><br/>
     </div>
     <div>
       <h4>Solucionando desafios em C#</h4>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Desafios%20aritm%C3%A9ticos%20em%20C%23/bazinga.cs">Bazinga!</a><br/>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solucionando%20desafios%20intermedi%C3%A1rios%20em%20C%23/teste-de-selecao-1.cs">Teste de Seleção 1</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Desafios%20aritme%CC%81ticos%20em%20C%23/bazinga.cs">Bazinga!</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solucionando%20desafios%20intermedia%CC%81rios%20em%20C%23/teste-de-selecao-1.cs">Teste de Seleção 1</a><br/>
       <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Resolvendo%20Algoritmos/pizza-antes-do-final-do-ano.cs">Pizza Antes do Final do Ano</a><br/>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solu%C3%A7%C3%A3o%20de%20Problemas%20Essenciais%20com%20C%23/ultrapassando-V.cs">Ultrapassando V</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Soluc%CC%A7a%CC%83o%20de%20Problemas%20Essenciais%20com%20C%23/ultrapassando-V.cs">Ultrapassando V</a><br/>
       <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Resolvendo%20Algoritmos/conversao-de-tempo.cs">Conversão de Tempo</a><br/>
     </div>
     <div>
       <h4>Solucionando desafios intermediários em C#</h4>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solucionando%20desafios%20intermedi%C3%A1rios%20em%20C%23/teste-de-selecao-1.cs">Teste de Seleção 1</a><br/>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solucionando%20desafios%20intermedi%C3%A1rios%20em%20C%23/triangulo.cs">Triângulo</a><br/>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solucionando%20desafios%20intermedi%C3%A1rios%20em%20C%23/notas-e-moedas.cs">Notas e Moedas</a><br/>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solucionando%20desafios%20intermedi%C3%A1rios%20em%20C%23/teorematda-divisao-euclidiana.cs">Teorema da Divisão Euclidiana</a><br/>
-      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solucionando%20desafios%20intermedi%C3%A1rios%20em%20C%23/formula-de-bhaskara.cs">Fórmula de Bhaskara</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solucionando%20desafios%20intermedia%CC%81rios%20em%20C%23/teste-de-selecao-1.cs">Teste de Seleção 1</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solucionando%20desafios%20intermedia%CC%81rios%20em%20C%23/triangulo.cs">Triângulo</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solucionando%20desafios%20intermedia%CC%81rios%20em%20C%23/notas-e-moedas.cs">Notas e Moedas</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solucionando%20desafios%20intermedia%CC%81rios%20em%20C%23/teorematda-divisao-euclidiana.cs">Teorema da Divisão Euclidiana</a><br/>
+      <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/C%23/Solucionando%20desafios%20intermedia%CC%81rios%20em%20C%23/formula-de-bhaskara.cs">Fórmula de Bhaskara</a><br/>
     </div>
 </details>
 
