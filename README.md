@@ -159,53 +159,53 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   <summary><span>Java</span></summary>
   <div>
     <h4>Desafios Aritméticos em Java</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Desafios%20Aritm%C3%A9ticos%20em%20Java/divisores.java">Divisores</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/AnaliseNumeros.java">Análise de Números</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/ContagemRepetidaNumeros.java">Contagem repetida de números</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Desafios%20Aritme%CC%81ticos%20em%20Java/divisores.java">Divisores</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Fundamentos%20Aritme%CC%81ticos%20em%20Java/AnaliseNumeros.java">Análise de Números</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Soluc%CC%A7a%CC%83o%20de%20Problemas%20com%20Java/ContagemRepetidaNumeros.java">Contagem repetida de números</a><br/>
   </div>
   <div>
     <h4>Fundamentos Aritméticos em Java</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/QtdeNumerosPositivos.java">Quantidade de Números Positivos</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/ExibindoNumerosPares.java">Exibindo Números Pares</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/AnaliseNumeros.java">Análise de Números</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/ContagemCedulas.java">Contagem de Cédulas</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/ConsumoMedioAutomovel.java">Consumo Médio do Automóvel</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Fundamentos%20Aritme%CC%81ticos%20em%20Java/QtdeNumerosPositivos.java">Quantidade de Números Positivos</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Fundamentos%20Aritme%CC%81ticos%20em%20Java/ExibindoNumerosPares.java">Exibindo Números Pares</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Fundamentos%20Aritme%CC%81ticos%20em%20Java/AnaliseNumeros.java">Análise de Números</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Fundamentos%20Aritme%CC%81ticos%20em%20Java/ContagemCedulas.java">Contagem de Cédulas</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Fundamentos%20Aritme%CC%81ticos%20em%20Java/ConsumoMedioAutomovel.java">Consumo Médio do Automóvel</a><br/>
   </div>
   <div>
     <h4>Iniciando a programação em Java</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Fundamentos%20Aritm%C3%A9ticos%20em%20Java/ExibindoNumerosPares.java">Exibindo Números Pares</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/EntradaESaidaCPF.java">Entrada e Saída CPF</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Iniciando%20a%20programa%C3%A7%C3%A3o%20em%20Java/DDD.java">DDD</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Fundamentos%20Aritme%CC%81ticos%20em%20Java/ExibindoNumerosPares.java">Exibindo Números Pares</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Iniciando%20a%20programac%CC%A7a%CC%83o%20em%20Java/EntradaESaidaCPF.java">Entrada e Saída CPF</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Iniciando%20a%20programac%CC%A7a%CC%83o%20em%20Java/DDD.java">DDD</a><br/>
   </div>
   <div>
     <h4>Introdução a Busca e Substituição em Java</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/OrdenacaoPalavrasPorTamanho.java">Ordenação de palavras por tamanho</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/MaiorSubstring.java">Encontre a maior substring</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/ValidadorSenhas.java">Validador de senhas com requisitos</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/PedraPapelTesouraLagartoSpock.java">Pedra, Papel, Tesoura, Lagarto e Spock</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/AtalhosWebBlogger.java">Atalhos para o Weblogger Brasil</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Introduc%CC%A7a%CC%83o%20a%20Busca%20e%20Substituic%CC%A7a%CC%83o%20em%20Java/OrdenacaoPalavrasPorTamanho.java">Ordenação de palavras por tamanho</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Introduc%CC%A7a%CC%83o%20a%20Busca%20e%20Substituic%CC%A7a%CC%83o%20em%20Java/MaiorSubstring.java">Encontre a maior substring</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Introduc%CC%A7a%CC%83o%20a%20Busca%20e%20Substituic%CC%A7a%CC%83o%20em%20Java/ValidadorSenhas.java">Validador de senhas com requisitos</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Introduc%CC%A7a%CC%83o%20a%20Busca%20e%20Substituic%CC%A7a%CC%83o%20em%20Java/PedraPapelTesouraLagartoSpock.java">Pedra, Papel, Tesoura, Lagarto e Spock</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Introduc%CC%A7a%CC%83o%20a%20Busca%20e%20Substituic%CC%A7a%CC%83o%20em%20Java/AtalhosWebBlogger.java">Atalhos para o Weblogger Brasil</a><br/>
   </div>
   <div>
     <h4>Introdução a Programação com Java</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/VisitaFeira.java">Visita na Feira</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/MultiplicacaoSimples.java">Multiplicação Simples</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/FolhaPagamento.java">Folha de Pagamento</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Introduc%CC%A7a%CC%83o%20a%20Programac%CC%A7a%CC%83o%20com%20Java/VisitaFeira.java">Visita na Feira</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Introduc%CC%A7a%CC%83o%20a%20Programac%CC%A7a%CC%83o%20com%20Java/MultiplicacaoSimples.java">Multiplicação Simples</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Introduc%CC%A7a%CC%83o%20a%20Programac%CC%A7a%CC%83o%20com%20Java/FolhaPagamento.java">Folha de Pagamento</a><br/>
   </div>
   <div>
     <h4>Ordenação e Filtros em Java</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/OrdenandoNumerosParesImpares.java">Ordenando Números Pares e Ímpares</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/ComprasSupermercado.java">Compras no Supermercado</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/UniformesFinalAno.java">Uniformes de final de ano</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/FilaBanco.java">Fila do Banco</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Ordena%C3%A7%C3%A3o%20e%20Filtros%20em%20Java/GincanaAcampamento.java">Gincana no Acampamento</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Ordenac%CC%A7a%CC%83o%20e%20Filtros%20em%20Java/OrdenandoNumerosParesImpares.java">Ordenando Números Pares e Ímpares</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Ordenac%CC%A7a%CC%83o%20e%20Filtros%20em%20Java/ComprasSupermercado.java">Compras no Supermercado</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Ordenac%CC%A7a%CC%83o%20e%20Filtros%20em%20Java/UniformesFinalAno.java">Uniformes de final de ano</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Ordenac%CC%A7a%CC%83o%20e%20Filtros%20em%20Java/FilaBanco.java">Fila do Banco</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Ordenac%CC%A7a%CC%83o%20e%20Filtros%20em%20Java/GincanaAcampamento.java">Gincana no Acampamento</a><br/>
   </div>
   <div>
     <h4>Praticando programação em Java</h4>
     <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Resolvendo%20Algoritmos%20com%20Java/AbreviacaoPostsBlog.java">Abreviando posts do blog</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/ConjuntosBonsRuins.java">Conjuntos bons ou ruins?</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/MaiorSubstring.java">Encontre a maior substring</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/EntrevistaEmbaracosa.java">Entrevista embaraçosa</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/ValidadorSenhas.java">Validador de senhas com requisitos</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Soluc%CC%A7a%CC%83o%20de%20Problemas%20com%20Java/ConjuntosBonsRuins.java">Conjuntos bons ou ruins?</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Introduc%CC%A7a%CC%83o%20a%20Busca%20e%20Substituic%CC%A7a%CC%83o%20em%20Java/MaiorSubstring.java">Encontre a maior substring</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Soluc%CC%A7a%CC%83o%20de%20Problemas%20com%20Java/EntrevistaEmbaracosa.java">Entrevista embaraçosa</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Introduc%CC%A7a%CC%83o%20a%20Busca%20e%20Substituic%CC%A7a%CC%83o%20em%20Java/ValidadorSenhas.java">Validador de senhas com requisitos</a><br/>
   </div>
   <div>
     <h4>Resolvendo Algoritmos com Java</h4>
@@ -217,25 +217,25 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   </div>
   <div>
     <h4>Solução de problemas básicos em Java</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20Java/ExibindoNumerosPares.java">Exibindo Números Pares</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20Java/IdadeEmDias.java">Idade em Dias</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Solu%C3%A7%C3%A3o%20de%20problemas%20b%C3%A1sicos%20em%20Java/NotasDaProva.java">Notas da Prova</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Soluc%CC%A7a%CC%83o%20de%20problemas%20ba%CC%81sicos%20em%20Java/ExibindoNumerosPares.java">Exibindo Números Pares</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Soluc%CC%A7a%CC%83o%20de%20problemas%20ba%CC%81sicos%20em%20Java/IdadeEmDias.java">Idade em Dias</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Soluc%CC%A7a%CC%83o%20de%20problemas%20ba%CC%81sicos%20em%20Java/NotasDaProva.java">Notas da Prova</a><br/>
   </div>
   <div>
     <h4>Solução de Problemas com Java</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/ContagemRepetidaNumeros.java">Contagem repetida de números</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/VogaisExtraterrestres.java">Vogais Extraterrestres</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/MelhorAmigoPablo.java">Melhor amigo do Pablo</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/EntrevistaEmbaracosa.java">Entrevista embaraçosa</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/ConjuntosBonsRuins.java">Conjuntos bons ou ruins?</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/ProdutoDivisao.java">Produto e divisão</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Solu%C3%A7%C3%A3o%20de%20Problemas%20com%20Java/BarrasOuro.java">Barras de ouro</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Soluc%CC%A7a%CC%83o%20de%20Problemas%20com%20Java/ContagemRepetidaNumeros.java">Contagem repetida de números</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Soluc%CC%A7a%CC%83o%20de%20Problemas%20com%20Java/VogaisExtraterrestres.java">Vogais Extraterrestres</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Soluc%CC%A7a%CC%83o%20de%20Problemas%20com%20Java/MelhorAmigoPablo.java">Melhor amigo do Pablo</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Soluc%CC%A7a%CC%83o%20de%20Problemas%20com%20Java/EntrevistaEmbaracosa.java">Entrevista embaraçosa</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Soluc%CC%A7a%CC%83o%20de%20Problemas%20com%20Java/ConjuntosBonsRuins.java">Conjuntos bons ou ruins?</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Soluc%CC%A7a%CC%83o%20de%20Problemas%20com%20Java/ProdutoDivisao.java">Produto e divisão</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Soluc%CC%A7a%CC%83o%20de%20Problemas%20com%20Java/BarrasOuro.java">Barras de ouro</a><br/>
   </div>
   <div>
     <h4>Solucionando problemas básicos em Java</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20Java/MultiplicacaoSimples.java">Multiplicação Simples</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Solucionando%20problemas%20b%C3%A1sicos%20em%20Java/MenorPosicao.java">Menor e Posição</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Solucionando%20problemas%20b%C3%A1sicos%20em%20Java/NumerosImpares.java">Números Ímpares</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Introduc%CC%A7a%CC%83o%20a%20Programac%CC%A7a%CC%83o%20com%20Java/MultiplicacaoSimples.java">Multiplicação Simples</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Solucionando%20problemas%20ba%CC%81sicos%20em%20Java/MenorPosicao.java">Menor e Posição</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Java/Solucionando%20problemas%20ba%CC%81sicos%20em%20Java/NumerosImpares.java">Números Ímpares</a><br/>
   </div>
 </details>
 
