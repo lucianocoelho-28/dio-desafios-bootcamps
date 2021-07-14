@@ -451,23 +451,23 @@ Os códigos estão rodando normalmente na plataforma da DIO.
   <summary><span>Ruby</span></summary>
   <div>
     <h4>Praticando com desafios intermediários em Ruby</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Ruby/Praticando%20com%20desafios%20intermedi%C3%A1rios%20em%20Ruby/EncaixaOuNao.rb">Encaixa ou Não?</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Ruby/Praticando%20com%20desafios%20intermedi%C3%A1rios%20em%20Ruby/TipoDeCombustivel.rb">Tipo de Combustível</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Ruby/Praticando%20com%20desafios%20intermedi%C3%A1rios%20em%20Ruby/CrescimentoPopulacional.rb">Crescimento Populacional</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Ruby/Praticando%20com%20desafios%20intermedi%C3%A1rios%20em%20Ruby/FibonacciFacil.rb">Fibonacci Fácil</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Ruby/Praticando%20com%20desafios%20intermedi%C3%A1rios%20em%20Ruby/SequenciaLogica.rb">Sequência Lógica</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Ruby/Praticando%20com%20desafios%20intermedia%CC%81rios%20em%20Ruby/EncaixaOuNao.rb">Encaixa ou Não?</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Ruby/Praticando%20com%20desafios%20intermedia%CC%81rios%20em%20Ruby/TipoDeCombustivel.rb">Tipo de Combustível</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Ruby/Praticando%20com%20desafios%20intermedia%CC%81rios%20em%20Ruby/CrescimentoPopulacional.rb">Crescimento Populacional</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Ruby/Praticando%20com%20desafios%20intermedia%CC%81rios%20em%20Ruby/FibonacciFacil.rb">Fibonacci Fácil</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Ruby/Praticando%20com%20desafios%20intermedia%CC%81rios%20em%20Ruby/SequenciaLogica.rb">Sequência Lógica</a><br/>
   </div>
   <div>
     <h4>Solucionando desafios matemáticos em Ruby</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Ruby/Solucionando%20desafios%20matem%C3%A1ticos%20em%20Ruby/SubstituicaoEmVetorI.rb">Substituição em Vetor I</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Ruby/Solucionando%20desafios%20matem%C3%A1ticos%20em%20Ruby/FibonacciEmVetor.rb">Fibonacci em Vetor</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Ruby/Solucionando%20desafios%20matem%C3%A1ticos%20em%20Ruby/AcimaDaDiagonalPrincipal.rb">Acima da Diagonal Principal</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Ruby/Solucionando%20desafios%20matema%CC%81ticos%20em%20Ruby/SubstituicaoEmVetorI.rb">Substituição em Vetor I</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Ruby/Solucionando%20desafios%20matema%CC%81ticos%20em%20Ruby/FibonacciEmVetor.rb">Fibonacci em Vetor</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Ruby/Solucionando%20desafios%20matema%CC%81ticos%20em%20Ruby/AcimaDaDiagonalPrincipal.rb">Acima da Diagonal Principal</a><br/>
   </div>
   <div>
     <h4>Solucionando problemas básicos em Ruby</h4>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Ruby/Solucionando%20problemas%20b%C3%A1sicos%20em%20Ruby/ParOuImpar.rb">Par ou Ímpar</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Ruby/Solucionando%20problemas%20b%C3%A1sicos%20em%20Ruby/DDD.rb">DDD</a><br/>
-    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Ruby/Solucionando%20problemas%20b%C3%A1sicos%20em%20Ruby/IdadeEmDias.rb">Idade em Dias</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Ruby/Solucionando%20problemas%20ba%CC%81sicos%20em%20Ruby/ParOuImpar.rb">Par ou Ímpar</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Ruby/Solucionando%20problemas%20ba%CC%81sicos%20em%20Ruby/DDD.rb">DDD</a><br/>
+    <a href="https://github.com/lucianocoelho-28/dio-desafios-bootcamps/blob/main/Ruby/Solucionando%20problemas%20ba%CC%81sicos%20em%20Ruby/IdadeEmDias.rb">Idade em Dias</a><br/>
   </div>
 </details>
 
