@@ -12,7 +12,7 @@
 
 <!--Banner session-->
 <p align="center">
-  <img src="./assets/banner.png" alt="DIO" tittle="Digital Innovation One">
+  <img src="./DIO.png" width="500" alt="DIO" tittle="Digital Innovation One">
 </p>
 
 <!--About session-->
